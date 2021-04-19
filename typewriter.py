@@ -27,6 +27,10 @@
 		
 		` python typewriter.py <event number>`
 		ex. ` python typewriter.py 4`
+		
+	Sources:
+		https://github.com/chrelad/keypress/
+		https://www.youtube.com/watch?v=0Bk6ihHlpB0
 
 
 """
